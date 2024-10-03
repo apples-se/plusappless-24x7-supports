@@ -6537,3 +6537,6 @@ only screen and (max-width: 767.98px) {
 }
 
 /*-------- footer bottom area end --------*/
+img{
+    width: 100%;
+}
